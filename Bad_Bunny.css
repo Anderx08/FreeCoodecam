@@ -1,0 +1,52 @@
+
+
+h1 {
+    width: 450px;
+    line-height: 50px;
+    background-color: #ad86bd;
+    color: black;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+header {
+    display: inline-block;
+    padding-left: 0%;
+    animation: marquee 15s linear infinite;
+}
+
+body{
+    font-size: 20px;
+    text-align: center;
+    background-color:#D2B4DE ;
+
+
+}
+img{
+    width: auto;
+    height: auto;
+    border-radius: 2%;
+    box-shadow: 5px 10px #F4ECF7  ;
+}
+ul{
+    background:#C39BD3;
+    text-align: left;
+    display: table;
+    margin: 0 auto;
+    line-height: 1.5;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+
+}
+#quote{
+    font-size: 30px;
+
+}
+a{
+    color:black;
+}
+figcaption{
+    margin: 10px;
+}
